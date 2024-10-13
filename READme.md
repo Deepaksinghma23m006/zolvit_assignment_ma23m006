@@ -64,6 +64,9 @@ Open your web browser and navigate to http://localhost:8501 to access the Invoic
 
 ## screenshots
 
+ output PDF: https://drive.google.com/file/d/151xP1QKk7OcybJwiRxpxcUv0fo5WSlIQ/view?usp=drive_link
+ Sample output file: https://docs.google.com/spreadsheets/d/1SQZWM307DQXIXhgm7CGiuMsz9YkMhy62/edit?usp=drive_link&ouid=101059314479765340537&rtpof=true&sd=true
+ 
 ## Video Demo
 
 [![Watch the video](https://img.youtube.com/vi/537Y0lKko04/maxresdefault.jpg)](https://www.youtube.com/watch?v=537Y0lKko04)
@@ -83,7 +86,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ### Notes
 
 - **Repository URL**: https://github.com/Deepaksinghma23m006/zolvit_assignment_ma23m006
-- **Screenshots**:
+- **Screenshots**:  https://drive.google.com/file/d/151xP1QKk7OcybJwiRxpxcUv0fo5WSlIQ/view?usp=drive_link
 - **Video Link**: https://youtu.be/537Y0lKko04
 
 
