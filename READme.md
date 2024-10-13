@@ -66,6 +66,9 @@ Open your web browser and navigate to http://localhost:8501 to access the Invoic
 
 ## Video Demo
 
+[![Watch the video](https://img.youtube.com/vi/537Y0lKko04/maxresdefault.jpg)](https://www.youtube.com/watch?v=537Y0lKko04)
+
+
 
 For a visual demonstration of the application, watch this video: Invoice Extraction Bot Demo
 
