@@ -79,9 +79,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Notes
 
-- **Repository URL**: Replace `<repository-url>` in the clone command with the actual URL of your GitHub repository.
-- **Screenshots**: Make sure to place your screenshot in a `screenshots` directory within your project, and update the filename in the README if needed.
-- **Video Link**: Replace `https://www.example.com/demo-video` with the actual link to your video demonstration. You can upload the video to platforms like YouTube or Vimeo.
+- **Repository URL**: https://github.com/Deepaksinghma23m006/zolvit_assignment_ma23m006
+- **Screenshots**:
+- **Video Link**: 
 
 
 
