@@ -1,0 +1,12 @@
+pypdf 
+pandas 
+langchain 
+openai 
+streamlit 
+python-dotenv
+requests
+pdf2image 
+pytesseract 
+pillow
+PyYAML
+#os

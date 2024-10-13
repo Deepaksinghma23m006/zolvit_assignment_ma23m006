@@ -1,0 +1,24 @@
+invoice_extraction_prompt: |
+  Please extract the following information from the invoice text:
+  - Invoice No.
+  - Quantity
+  - Date
+  - Amount
+  - Total
+  - Email
+  - GSTIN Supplier
+  - GSTIN Recipient
+  - Address
+  - Place of Supply
+  - Place of Origin
+  - Taxable Value
+  - SGST Amount
+  - CGST Amount
+  - IGST Amount
+  - SGST Rate
+  - CGST Rate
+  - IGST Rate
+  - Tax Amount
+  - Tax Rate
+  - Final Amount
+  Return the data in JSON format.

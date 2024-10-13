@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Streamlit secrets
+.secrets/
+
+# Environment variable files
+.env
+
+# Log files
+*.log
+
+# Excel files
+*.xlsx
+
+# CSV files
+*.csv
+
+# Docker files
+Dockerfile
+docker-compose.yml
