@@ -1,5 +1,14 @@
 # 📄 Invoice Extraction Bot
 
+
+### MODEL 1-  Pytesseract/OCR (branch 2)
+
+### MODEL 2 - OpenAI   (on main branch)
+
+### MODEL 3 - Llama 3 (branch 3)
+
+
+
 ## Description
 
 The **Invoice Extraction Bot** is a Streamlit application designed to extract and validate invoice data from PDF files. It utilizes OpenAI's GPT-4 model to intelligently parse and organize critical information from invoices, such as invoice numbers, dates, amounts, and various tax-related fields.
