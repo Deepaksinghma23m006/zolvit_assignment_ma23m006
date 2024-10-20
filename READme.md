@@ -112,7 +112,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ### Notes
 
 - **Repository URL**: https://github.com/Deepaksinghma23m006/zolvit_assignment_ma23m006
-- **Screenshots**:  https://drive.google.com/file/d/151xP1QKk7OcybJwiRxpxcUv0fo5WSlIQ/view?usp=drive_link
 - **Video Link**: https://youtu.be/537Y0lKko04
 
 
