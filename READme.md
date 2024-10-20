@@ -1,14 +1,28 @@
 # 📄 Invoice Extraction Bot
 
 
-### MODEL 1-  OpenAI 
+### MODEL 1-  Pytesseract/OCR
 
-### MODEL 2 -  Pytesseract/OCR
+### MODEL 2 -  Llama 3
 
-### MODEL 3 - Llama 3
+### MODEL 3 -  OpenAI 
 
 
-# Model 1
+
+# Model 1 (check above folder)
+
+```
+streamlit run app.py
+```
+
+# Model 2 (check above folder )
+
+It will run on kaggle with free subscription of llama 3 
+
+
+
+# Model 3
+
 
 ## Description
 
@@ -103,15 +117,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 
 
-# Model 2
 
-```
-streamlit run app.py
-```
-
-# Model 3
-
-It will run on kaggle with free subscription of llama 3 
 
 
 
