@@ -74,8 +74,8 @@ Open your web browser and navigate to http://localhost:8501 to access the Invoic
 
 ## screenshots
 
- output PDF: https://drive.google.com/file/d/151xP1QKk7OcybJwiRxpxcUv0fo5WSlIQ/view?usp=drive_link
- Sample output file: https://docs.google.com/spreadsheets/d/1SQZWM307DQXIXhgm7CGiuMsz9YkMhy62/edit?usp=drive_link&ouid=101059314479765340537&rtpof=true&sd=true
+ Streamlit web interface PDF: https://drive.google.com/file/d/151xP1QKk7OcybJwiRxpxcUv0fo5WSlIQ/view?usp=drive_link
+ Output file (Model 1,2 and 3 ) : [https://docs.google.com/spreadsheets/d/1SQZWM307DQXIXhgm7CGiuMsz9YkMhy62/edit?usp=drive_link&ouid=101059314479765340537&rtpof=true&sd=true](https://drive.google.com/drive/folders/1CohZue3YVLkZlrlihnKL0j8QA0_O1Jqv?usp=drive_link)
  
 ## Video Demo
 
